@@ -1,2 +1,2 @@
-# cp-boiler
+# cp-template
 Happy Coding ;)
